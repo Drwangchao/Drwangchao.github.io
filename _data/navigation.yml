@@ -13,4 +13,4 @@ main:
     url: /models/
     
   - title: "meetings"
-    url: /models/
+    url: /meetings/
