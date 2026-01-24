@@ -11,3 +11,6 @@ main:
 
   - title: "LLM Models"
     url: /models/
+    
+  - title: "meetings"
+    url: /models/
