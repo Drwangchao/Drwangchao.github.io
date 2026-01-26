@@ -140,6 +140,18 @@
       "description": ""
     }
   ],
+  "meetings": [
+    {
+      "course": "meetings 1",
+      "role": "Workshop",
+      "description": ""
+    },
+    {
+      "course": "meetings 2",
+      "role": "Workshop",
+      "description": ""
+    }
+  ],
   "awards": [
     {
       "title": "awards 1",
