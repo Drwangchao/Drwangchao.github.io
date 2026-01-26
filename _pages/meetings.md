@@ -10,6 +10,6 @@ Some meetings are presented.
 {% include base_path %}
 
 
-{% for post in site.models %}
+{% for post in site.meetings %}
   {% include archive-single.html %}
 {% endfor %}
