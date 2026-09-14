@@ -1,1 +1,140 @@
 
+---
+title: "<center>IEEE GLOBECOM 2026 Workshop Proposal</center>"
+collection: meetings
+category: manuscripts
+permalink: /meetings/m1
+excerpt: "This proposal is for a half-day workshop at IEEE GLOBECOM 2026 titled 'Intelligent and Secure Communications in Non-Terrestrial Networks'.It aims to address the unique security, privacy, and covert communication challenges in 6G-integrated NTNs by fostering interdisciplinary research combining AI, physical-layer security, and NTN-specific designs. The proposal outlines the workshop's scope, introduces an international team of guest editors, details a multi-channel publicity plan, and describes a format featuring refereed papers, keynotes, and panel discussions. A rigorous peer-review process and a detailed call for papers for a related special issue are also included to ensure high-quality contributions and discussions."
+---
+
+
+
+**Scope**
+
+
+Non-Terrestrial Networks (NTNs) are becoming a cornerstone of future wireless communication systems by enabling ubiquitous global coverage, resilient emergency communications, and seamless connectivity beyond terrestrial infrastructure. However, the broadcast nature of NTN links, long propagation delays, highly dynamic topologies, and stringent onboard resource constraints introduce fundamentally new challenges in security, privacy, reliability, and system intelligence that are not adequately addressed by existing terrestrial communication paradigms.
+
+
+This workshop is dedicated to the theory, design, optimization, and applications of secure and reliable communications in NTNs. It aims to explore how emerging techniques, e.g. artificial intelligence, digital twins, covert communications, fluid antenna systems, affine frequency division multiplexing, and rate-splitting multiple access, can be leveraged to enhance the security, adaptability, and resilience of non-terrestrial communication systems while meeting the escalating demands for high throughput, ultra-reliability, massive connectivity, and heterogeneous quality-of-service (QoS) in 6G and beyond.
+
+
+The International Workshop on Secure and Reliable Communications in Non-Terrestrial Networks will take place during IEEE GLOBECOM 2026 in Macau S.A.R., China. The workshop will provide a forum for researchers and engineers from academia and industry to share the latest findings, discuss new ideas, and brainstorm future directions. By fostering interdisciplinary discussions on cutting-edge techniques, the workshop aims to advance the development of robust, trustworthy, and intelligent NTNs for 6G and beyond.
+
+
+
+**Topics of interest**
+
+
+**•** AI- and learning-enabled waveform design for secure NTNs
+
+
+**•** Intelligent beamforming and precoding for reliable NTNs
+
+
+**•** Learning-assisted mobility management in NTNs
+
+
+**•** Semantic communications with security guarantees in NTNs
+
+
+**•** Physical-layer security techniques for NTNs
+
+
+**•** Privacy-preserving transmission protocols in NTNs
+
+
+**•** Privacy-preserving communications in NTNs
+
+
+**•** Secure multiple access in NTNs
+
+
+**•** Covert communications in NTNs
+
+
+**•** Intelligent covertness optimization in NTNs
+
+
+**•** Integrated covert communication and sensing in NTNs
+
+
+**•** Intelligent reconfigurable surfaces for secure NTNs
+
+
+**•** Intelligent fluid antenna systems for reliable NTNs
+
+
+**•** Digital twins for secure and reliable NTN operation
+
+
+**•** Finite blocklength transmission in NTNs
+
+
+**•** Secure computational offloading 
+
+
+**•** Secure distributed computing in NTNs
+
+
+**•** Trustworthy AI and large model training in NTNs
+
+
+**•** Secure AI-RAN in NTNs
+
+
+**•** Multi-agent-driven secure communications in NTNs
+
+
+**•** AI-RAN-driven reliable communications in NTNs
+
+
+**•** FAS-enabled reliable communications in NTNs
+
+
+**Important Dates**
+
+
+
+**•** **Paper Submission Deadline:** 7 August 2026
+
+
+**•** **Paper Acceptance Notification:** 1 September 2026
+
+
+**•** **Camera Ready:** 1 October  2026
+
+
+**•** **Workshop Date:** 7 or 11 December 2026
+
+
+**•** **Submission Link:** https://globecom2026.ieee-globecom.org/
+
+
+**Keynote Speakers**
+
+
+**•** **Prof. Yuanwei Liu：** The University of Hong Kong S.A.R., China
+
+
+**•** **Prof. Kai-Kit Wong：** University College London, U.K.
+
+
+**Workshop Chairs**
+
+
+**•** **Prof. Zan Li：** Xidian University, China
+
+
+**•** **Prof. Wee Kiat New：** Huawei, Singapore
+
+
+**•** **Prof. Shengyu Zhang：** Singapore University of Technology and Design, Singapore
+
+
+**•** **Prof. Chao Wang：** Xidian University, China
+
+
+**•** **Prof. Kai-Kit Wong；** University College London, U.K.
+
+
+**•** **Prof. Derrick W. K. Ng：** University of New South Wales, Australia
