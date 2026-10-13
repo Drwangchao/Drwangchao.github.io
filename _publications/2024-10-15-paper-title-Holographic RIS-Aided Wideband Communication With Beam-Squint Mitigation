@@ -6,7 +6,7 @@ permalink: /publication/2024-10-15-paper-title-Holographic RIS-Aided Wideband Co
 excerpt: "<img src='/images/07151.png'  style='float: right; margin: 5px;'>This paper investigates the beam-squint effect in holographic RIS-aided wideband communication, where larger RIS apertures and wider transmission bandwidths cause frequency-dependent beam misalignment and degrade system performance. Based on electromagnetic wave propagation theory, the authors derive the angle spread range, 3 dB beam bandwidth, and beam coverage range, then propose a codebook design scheme that covers the target area with the minimum codebook size. They further introduce true-time-delay (TTD) lines into the holographic RIS structure, and simulations verify their effectiveness in mitigating the beam-squint effect."
 date: 2024-10-15
 venue: 'IEEE Transactions on Communications'
-paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10719631'
+paperurl: 'https://github.com/Drwangchao/Drwangchao.github.io/blob/main/files/Holographic_RIS-Aided_Wideband_Communication_With_Beam-Squint_Mitigation.pdf'
 thumbnail: '/images/0715.png'
 citation: 'Jinyang Li, Haoran Sun, Shun Zhang, Chao Wang, Zan Li, Feifei Gao."Holographic RIS-Aided Wideband Communication With Beam-Squint Mitigation" IEEE Transactions on Communications(2025).'
 ---
