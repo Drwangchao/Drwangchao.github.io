@@ -1,0 +1,20 @@
+---
+title: "Holographic RIS-Aided Wideband Communication With Beam-Squint Mitigation"
+collection: publications
+category: manuscripts
+permalink: /publication/2024-10-15-paper-title-Holographic RIS-Aided Wideband Communication With Beam-Squint Mitigation
+excerpt: "<img src='/images/07151.png'  style='float: right; margin: 5px;'>This paper investigates the beam-squint effect in holographic RIS-aided wideband communication, where larger RIS apertures and wider transmission bandwidths cause frequency-dependent beam misalignment and degrade system performance. Based on electromagnetic wave propagation theory, the authors derive the angle spread range, 3 dB beam bandwidth, and beam coverage range, then propose a codebook design scheme that covers the target area with the minimum codebook size. They further introduce true-time-delay (TTD) lines into the holographic RIS structure, and simulations verify their effectiveness in mitigating the beam-squint effect."
+date: 2024-10-15
+venue: 'IEEE Transactions on Communications'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10719631'
+thumbnail: '/images/0715.png'
+citation: 'Jinyang Li, Haoran Sun, Shun Zhang, Chao Wang, Zan Li, Feifei Gao."Holographic RIS-Aided Wideband Communication With Beam-Squint Mitigation" IEEE Transactions on Communications(2025).'
+---
+
+
+**Abstract**:Reconfigurable intelligent surface (RIS) is a key potential technology for the sixth generation wireless communication. The deployment of RIS in wideband communication systems can effectively mitigate severe path loss and against the blockage of line-of-sight path, which can improve transmission gain and enhance communication quality. However, with the increase of RIS array and bandwidth, beam-squint effect will occur and seriously damage the performance of communication systems. In this paper, we first establish a holographic RIS-aided wideband communication system model from the perspective of the electromagnetic wave propagation theory. Then, we analyze the holographic RIS electromagnetic characteristics under the beam-squint effect. Further, we derive the angle spread range, 3dB beam bandwidth, and beam coverage range to analyze the regularities of beam offset. Besides, we propose a new codebook design scheme to address the impact of the beam-squint effect. Finally, we introduce the true-time-delay (TTD) lines into the holographic RIS structure to mitigate the beam-squint effect. The simulation results reveal the influence of the beam-squint, and also verify the mitigation effect of TTD lines on the beam-squint effect.
+**Index Terms**:Reconfigurable intelligent surface (RIS), holographic, beam-squint, electromagnetic characteristic analysis, true-time-delay (TTD) line
+
+<br/><img src='/images/0715.png' width = "600">
+
+<br/><img src='/images/07153.png' width = "600">
