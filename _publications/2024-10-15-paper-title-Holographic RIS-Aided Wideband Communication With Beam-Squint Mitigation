@@ -1,6 +1,6 @@
 ---
 title: "Holographic RIS-Aided Wideband Communication With Beam-Squint Mitigation"
-collection: publications
+collection: publications 
 category: manuscripts
 permalink: /publication/2024-10-15-paper-title-Holographic RIS-Aided Wideband Communication With Beam-Squint Mitigation
 excerpt: "<img src='/images/10151.png'  style='float: right; margin: 5px;'>This paper investigates the beam-squint effect in holographic RIS-aided wideband communication, where larger RIS apertures and wider transmission bandwidths cause frequency-dependent beam misalignment and degrade system performance. Based on electromagnetic wave propagation theory, the authors derive the angle spread range, 3 dB beam bandwidth, and beam coverage range, then propose a codebook design scheme that covers the target area with the minimum codebook size. They further introduce true-time-delay (TTD) lines into the holographic RIS structure, and simulations verify their effectiveness in mitigating the beam-squint effect."
