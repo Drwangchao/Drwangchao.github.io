@@ -1,0 +1,24 @@
+---
+title: "A Tutorial on Fluid Antenna System for 6G Networks: Encompassing Communication Theory, Optimization Methods and Hardware Designs"
+collection: publications 
+category: manuscripts
+permalink: /publication/2025-11-15-paper-title-A Tutorial on Fluid Antenna System for 6G Networks: Encompassing Communication Theory, Optimization Methods and Hardware Designs
+excerpt: "<img src='/images/11152.png'  style='float: right; margin: 5px;'>This paper investigates the beam-squint effect in holographic RIS-aided wideband communication, where larger RIS apertures and wider transmission bandwidths cause frequency-dependent beam misalignment and degrade system performance. Based on electromagnetic wave propagation theory, the authors derive the angle spread range, 3 dB beam bandwidth, and beam coverage range, then propose a codebook design scheme that covers the target area with the minimum codebook size. They further introduce true-time-delay (TTD) lines into the holographic RIS structure, and simulations verify their effectiveness in mitigating the beam-squint effect."
+date: 2025-11-15
+venue: 'IEEE Transactions on Communications'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10753482'
+thumbnail: '/images/11152.png'
+citation: 'Jinyang Li, Haoran Sun, Shun Zhang, Chao Wang, Zan Li, Feifei Gao."Holographic RIS-Aided Wideband Communication With Beam-Squint Mitigation" IEEE Transactions on Communications(2025).'
+---
+
+
+**Abstract**:The advent of the sixth-generation (6G) networks presents another round of revolution for the mobile communication landscape, promising an immersive experience, robust reliability, minimal latency, extreme connectivity, ubiquitous coverage, and capabilities beyond communication, including intelligence and sensing. To achieve these ambitious goals, it is apparent that 6G networks need to incorporate the state-of-the-art technologies. One of the technologies that has garnered rising interest is fluid antenna system (FAS) which represents any software-controllable fluidic, conductive, or dielectric structure capable of dynamically changing its shape and position to reconfigure essential radio-frequency (RF) characteristics. Compared to traditional antenna systems (TASs) with fixed-position radiating elements, the core idea of FAS revolves around the unique flexibility of reconfiguring the radiating elements within a given space. One recent driver of FAS is the recognition of its position-flexibility as a new degree of freedom (dof) to harness diversity and multiplexing gains. In this paper, we provide a comprehensive tutorial, covering channel modeling, signal processing and estimation methods, information-theoretic insights, new multiple access techniques, and hardware designs. Moreover, we delineate the challenges of FAS and explore the potential of using FAS to improve the performance of other contemporary technologies. By providing insights and guidance, this tutorial paper serves to inspire researchers to explore new horizons and fully unleash the potential of FAS.
+**Index Terms**:Reconfigurable intelligent surface (RIS), holographic, beam-squint, electromagnetic characteristic analysis, true-time-delay (TTD) line
+
+<br/><img src='/images/11151.png' width = "600">
+<br/><img src='/images/11152.png' width = "600">
+<br/><img src='/images/11153.png' width = "600">
+<br/><img src='/images/11154.png' width = "600">
+<br/><img src='/images/11155.png' width = "600">
+<br/><img src='/images/11156.png' width = "600">
+<br/><img src='/images/11157.png' width = "600">
