@@ -1,8 +1,8 @@
 ---
-title: "A Tutorial on Fluid Antenna System for 6G Networks， Encompassing Communication Theory, Optimization Methods and Hardware Designs"
+title: "A Tutorial on Fluid Antenna System for 6G Networks： Encompassing Communication Theory, Optimization Methods and Hardware Designs"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-11-15-paper-title-A Tutorial on Fluid Antenna System for 6G Networks， Encompassing Communication Theory, Optimization Methods and Hardware Designs
+permalink: /publication/2024-11-15-paper-title-A Tutorial on Fluid Antenna System for 6G Networks： Encompassing Communication Theory, Optimization Methods and Hardware Designs
 excerpt: "<img src='/images/11151.png'  style='float: right; margin: 5px;'>This tutorial paper addresses the research problem of how to utilize the flexible position and shape of Fluid Antenna Systems (FAS) as a new degree of freedom to enhance 6G network performance. It comprehensively reviews the methodologies and state-of-the-art developments in FAS, encompassing channel modeling, signal processing, information-theoretic analysis, novel multiple access techniques, and hardware designs. Additionally, it outlines current challenges and explores the potential synergies of FAS with other emerging technologies to fully unleash its capabilities for future 6G networks."
 date: 2024-11-15
 venue: 'IEEE Communications Surveys & Tutorials'
