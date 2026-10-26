@@ -3,18 +3,20 @@ title: "Toward Transparent Deep Learning_Neural Precoder Design for Downlink RSM
 collection: publications
 category: manuscripts
 permalink: /publication/2025-10-28-paper-title-Toward Transparent Deep Learning_Neural Precoder Design for Downlink RSMA
-excerpt: "<img src='/images/07151.png'  style='float: right; margin: 5px;'>This article explores how AI empowers Fluid Antenna Systems (FAS) to enhance wireless communications by optimizing antenna positions and improving MIMO performance. It discusses opportunities, challenges, and future directions, using ISAC scenarios as a case study to illustrate potential gains."
-date: 2024-07-15
-venue: 'IEEE Wireless Communications'
-paperurl: 'https://discovery.ucl.ac.uk/id/eprint/10195598/1/FINAL%20VERSION.pdf'
-thumbnail: '/images/0715.png'
-citation: 'Wang, Chao, et al. "AI-empowered fluid antenna systems: Opportunities, challenges, and future directions." IEEE Wireless Communications (2024).'
+excerpt: "<img src='/images/10281.png'  style='float: right; margin: 5px;'>This paper proposes an interpretable deep learning framework for precoder design in multiuser downlink rate-splitting multiple access (RSMA) systems. It first develops an alternating direction method of multipliers (ADMM) algorithm with closed-form subproblem solutions, then unfolds its iterations into a neural network. Trainable parameters are introduced to accelerate convergence while preserving the underlying optimization structure. Numerical results demonstrate improved performance over conventional model-based optimization methods with low computational complexity, supporting real-time implementation."
+date: 2025-10-28
+venue: 'IEEE Transactions on Communications'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11218924'
+thumbnail: '/images/10281.png'
+citation: 'Wang, Chao, et al. "Toward Transparent Deep Learning_Neural Precoder Design for Downlink RSMA" IEEE Transactions on Communications (2025).'
 ---
 
 
-**Abstract**:Fluid antennas embrace all forms of flexible-position antennas, both movable and non-movable. The concept of fluid antenna system (FAS) hence introduces a new dimension to en hance multiple-input multiple-output (MIMO) antenna systems, which is essential for achieving more ambitious goals in wireless communications. FAS fundamentally changes the way MIMO systems are optimized. In addition to optimizing precoding and decoding matrices, a flexible-position MIMO system, referred to as MIMO-FAS, needs to optimize the positions (i.e., ports) of the antennas to achieve the best performance. Unfortunately, due to the near-continuous nature of antenna position adjustment as well as the resulting high dimensionality, optimizing MIMO-FAS is NP-hard, complicated by the coupling between the optimization variables. Given the rapid advances in artificial intelligence (AI), it is fitting to harness its capabilities to alleviate the challenges of MIMO-FAS. This article explores a vision of how AI empowers FAS to overcome these hurdles using a learning-based approach, enabling FAS to excel. Furthermore, we use emerging integrated sensing and communication (ISAC) scenarios as a case study to illustrate the potential of enhancing FAS with AI capability. 
-**Index Terms**:Artificial intelligence, flexible-position MIMO, fluid antenna system, learning-aided optimization
+**Abstract**:The non-convexity of rate-splitting precoder design precludes the direct use of efficient convex optimization algorithms. Instead, successive convex approximation (SCA) based methods have emerged as a promising approach for precoder design in rate-splitting multiple access (RSMA) systems. Although SCA-based algorithms deliver satisfactory performance, their lengthy optimization process and high computational complexity—due to repeatedly solving approximate problems—hinder real-time implementation. To address this challenge, we propose an alternating direction method of multipliers (ADMM)-induced deep learning network (AIDLN) based precoder design for multiuser downlink communications, leveraging the strengths of both model-based optimization and data-driven deep learning. Specifically, we first develop an iterative precoding algorithm based on ADMM, where each subproblem admits a closed-form solution. Next, we unfold the iterations of this ADMM-based algorithm into the layers of a neural network, constructing a deep-unfolding architecture. To accelerate convergence, we introduce trainable parameters alongside the ADMM hyperparameters. Numerical results demonstrate that our AIDLN-based precoder achieves superior performance compared to traditional model-based optimization while maintaining low computational complexity, making it suitable for real-time applications.
+**Index Terms**:Deep learning, rate splitting multiple access, deep unfolding, alternating direction method of multipliers, precoder design.
 
-<br/><img src='/images/0715.png' width = "600">
-
-<br/><img src='/images/07153.png' width = "600">
+<br/><img src='/images/10281.png' width = "600">
+<br/><img src='/images/10282.png' width = "600">
+<br/><img src='/images/10283.png' width = "600">
+<br/><img src='/images/10284.png' width = "600">
+<br/><img src='/images/10285.png' width = "600">
