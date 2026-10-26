@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-6-16-paper-title-Securing ISAC Against Pilot Spoofing Attack_A Deep Plug-and-Play Countermeasure
 excerpt: "<img src='/images/06161.png'  style='float: right; margin: 5px;'>This paper investigates pilot spoofing attacks in integrated sensing and communication (ISAC) systems and proposes a deep plug-and-play approach to robust precoder design. The method incorporates a neural network into an iterative optimization algorithm to reduce information leakage while maintaining sensing performance and meeting communication constraints. It operates without separate knowledge of the victim’s and eavesdropper’s channel state information. Simulation results demonstrate its effectiveness in improving secrecy performance under pilot spoofing attacks."
-date: 2025-06-16
+date: 2025-6-16
 venue: 'IEEE Wireless Communications Letters'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11037496'
 thumbnail: '/images/06161.png'
@@ -12,8 +12,8 @@ citation: 'Guo Li; Chao Wang; Haibin Zhang; Liang Jin; Naofal Al-Dhahir"Securing
 ---
 
 
-**Abstract**:—In this letter, we propose a deep plug-and-play prior approach for designing a robust integrated sensing and communication (ISAC) precoder that combats the pilot spoofing attack for the first time. Specifically, our precoder design is formulated as a robust optimization problem that maximizes the sensing power while minimizing the eavesdropping signal to-interference-plus-noise ratio simultaneously, even without the need for knowledge of the victim’s and eavesdropper’s channel state information. To address this challenging design problem, a deep learning network is exploited to minimize the information leakage, which is subsequently integrated and plugged in as a modular component into an iterative precoder optimization algorithm, under a communication constraint. Simulation results confirm the secrecy performance of our proposed deep prior induced ISAC precoder design approach. 
-**Index Terms**:—Integrated sensing and communication, dual functional precoder, pilot spoofing attack, deep plug-and-play prior.
+**Abstract**:In this letter, we propose a deep plug-and-play prior approach for designing a robust integrated sensing and communication (ISAC) precoder that combats the pilot spoofing attack for the first time. Specifically, our precoder design is formulated as a robust optimization problem that maximizes the sensing power while minimizing the eavesdropping signal to-interference-plus-noise ratio simultaneously, even without the need for knowledge of the victim’s and eavesdropper’s channel state information. To address this challenging design problem, a deep learning network is exploited to minimize the information leakage, which is subsequently integrated and plugged in as a modular component into an iterative precoder optimization algorithm, under a communication constraint. Simulation results confirm the secrecy performance of our proposed deep prior induced ISAC precoder design approach. 
+**Index Terms**:Integrated sensing and communication, dual functional precoder, pilot spoofing attack, deep plug-and-play prior.
 
 
 <br/><img src='/images/06161.png' width = "600">
