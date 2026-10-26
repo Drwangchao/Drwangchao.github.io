@@ -2,19 +2,22 @@
 title: "Securing ISAC Against Pilot Spoofing Attack: A Deep Plug-and-Play Countermeasure"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-6-16-paper-title-Securing ISAC Against Pilot Spoofing Attack: A Deep Plug-and-Play Countermeasure
-excerpt: "<img src='/images/07151.png'  style='float: right; margin: 5px;'>This article explores how AI empowers Fluid Antenna Systems (FAS) to enhance wireless communications by optimizing antenna positions and improving MIMO performance. It discusses opportunities, challenges, and future directions, using ISAC scenarios as a case study to illustrate potential gains."
-date: 2024-07-15
-venue: 'IEEE Wireless Communications'
-paperurl: 'https://discovery.ucl.ac.uk/id/eprint/10195598/1/FINAL%20VERSION.pdf'
-thumbnail: '/images/0715.png'
-citation: 'Wang, Chao, et al. "AI-empowered fluid antenna systems: Opportunities, challenges, and future directions." IEEE Wireless Communications (2024).'
+permalink: /publication/2025-6-16-paper-title-Securing ISAC Against Pilot Spoofing Attack_A Deep Plug-and-Play Countermeasure
+excerpt: "<img src='/images/06161.png'  style='float: right; margin: 5px;'>This paper investigates pilot spoofing attacks in integrated sensing and communication (ISAC) systems and proposes a deep plug-and-play approach to robust precoder design. The method incorporates a neural network into an iterative optimization algorithm to reduce information leakage while maintaining sensing performance and meeting communication constraints. It operates without separate knowledge of the victim’s and eavesdropper’s channel state information. Simulation results demonstrate its effectiveness in improving secrecy performance under pilot spoofing attacks."
+date: 2025-0616
+venue: 'IEEE Wireless Communications Letters'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11037496'
+thumbnail: '/images/06161.png'
+citation: 'Guo Li; Chao Wang; Haibin Zhang; Liang Jin; Naofal Al-Dhahir"Securing ISAC Against Pilot Spoofing Attack: A Deep Plug-and-Play Countermeasure" IEEE Wireless Communications Letters (2025).'
 ---
 
 
-**Abstract**:Fluid antennas embrace all forms of flexible-position antennas, both movable and non-movable. The concept of fluid antenna system (FAS) hence introduces a new dimension to en hance multiple-input multiple-output (MIMO) antenna systems, which is essential for achieving more ambitious goals in wireless communications. FAS fundamentally changes the way MIMO systems are optimized. In addition to optimizing precoding and decoding matrices, a flexible-position MIMO system, referred to as MIMO-FAS, needs to optimize the positions (i.e., ports) of the antennas to achieve the best performance. Unfortunately, due to the near-continuous nature of antenna position adjustment as well as the resulting high dimensionality, optimizing MIMO-FAS is NP-hard, complicated by the coupling between the optimization variables. Given the rapid advances in artificial intelligence (AI), it is fitting to harness its capabilities to alleviate the challenges of MIMO-FAS. This article explores a vision of how AI empowers FAS to overcome these hurdles using a learning-based approach, enabling FAS to excel. Furthermore, we use emerging integrated sensing and communication (ISAC) scenarios as a case study to illustrate the potential of enhancing FAS with AI capability. 
-**Index Terms**:Artificial intelligence, flexible-position MIMO, fluid antenna system, learning-aided optimization
+**Abstract**:—In this letter, we propose a deep plug-and-play prior approach for designing a robust integrated sensing and communication (ISAC) precoder that combats the pilot spoofing attack for the first time. Specifically, our precoder design is formulated as a robust optimization problem that maximizes the sensing power while minimizing the eavesdropping signal to-interference-plus-noise ratio simultaneously, even without the need for knowledge of the victim’s and eavesdropper’s channel state information. To address this challenging design problem, a deep learning network is exploited to minimize the information leakage, which is subsequently integrated and plugged in as a modular component into an iterative precoder optimization algorithm, under a communication constraint. Simulation results confirm the secrecy performance of our proposed deep prior induced ISAC precoder design approach. 
+**Index Terms**:—Integrated sensing and communication, dual functional precoder, pilot spoofing attack, deep plug-and-play prior.
 
-<br/><img src='/images/0715.png' width = "600">
 
-<br/><img src='/images/07153.png' width = "600">
+<br/><img src='/images/06161.png' width = "600">
+<br/><img src='/images/06162.png' width = "600">
+<br/><img src='/images/06163.png' width = "600">
+<br/><img src='/images/06164.png' width = "600">
+<br/><img src='/images/06165.png' width = "600">
