@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-6-16-paper-title-Securing ISAC Against Pilot Spoofing Attack_A Deep Plug-and-Play Countermeasure
 excerpt: "<img src='/images/06161.png'  style='float: right; margin: 5px;'>This paper investigates pilot spoofing attacks in integrated sensing and communication (ISAC) systems and proposes a deep plug-and-play approach to robust precoder design. The method incorporates a neural network into an iterative optimization algorithm to reduce information leakage while maintaining sensing performance and meeting communication constraints. It operates without separate knowledge of the victim’s and eavesdropper’s channel state information. Simulation results demonstrate its effectiveness in improving secrecy performance under pilot spoofing attacks."
-date: 2025-0616
+date: 2025-06-16
 venue: 'IEEE Wireless Communications Letters'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11037496'
 thumbnail: '/images/06161.png'
