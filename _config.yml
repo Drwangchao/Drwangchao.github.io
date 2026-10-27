@@ -235,9 +235,9 @@ collections:
   models:
     output: true
     permalink: /:collection/:path/  
-  meetings:
-    output: true
-    permalink: /:collection/:path/  
+  # meetings:
+  #  output: true
+  #  permalink: /:collection/:path/  
   special issue and conference:
     output: true
     permalink: /:collection/:path/  
