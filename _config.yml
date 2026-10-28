@@ -325,10 +325,10 @@ defaults:
       author_profile: true
       share: true
       comment: true 
-  # _meetings
+  # _special issue and conference
   - scope:
       path: ""
-      type: meetings
+      type: special issue and conference
     values:
       layout: single
       author_profile: true
