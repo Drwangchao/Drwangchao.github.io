@@ -238,7 +238,7 @@ collections:
   # meetings:
   #  output: true
   #  permalink: /:collection/:path/  
-  special_issue_and_conference:
+  conference:
     output: true
     permalink: /:collection/:path/  
 
@@ -325,10 +325,10 @@ defaults:
       author_profile: true
       share: true
       comment: true 
-  # _special issue and conference
+  # conference
   - scope:
       path: ""
-      type: special_issue_and_conference
+      type: conference
     values:
       layout: single
       author_profile: true
