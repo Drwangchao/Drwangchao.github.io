@@ -1,10 +1,9 @@
 ---
+date: 2026-12-07
 title: "<center>IEEE GLOBECOM 2026 WS-03: Secure and Reliable Communications in Non-Terrestrial Networks</center>"
 collection: conference
 category: manuscripts
 permalink: /meetings/m3
-excerpt: >-
-  The Workshop on Secure and Reliable Communications in Non-Terrestrial Networks (WS-03) is part of IEEE GLOBECOM 2026 in Macao, China. It brings together researchers and engineers to discuss how physical-layer security, AI-assisted signal processing, and reconfigurable antenna technologies can improve the security and reliability of non-terrestrial networks for 6G and beyond.
 ---
 
 ## Scope
