@@ -3,8 +3,8 @@ date：2024-06-13
 title: "<center>IEEE ICC 2024 WS-14: 1st Workshop on Fluid Antenna System for 6G</center>"
 collection: conference
 category: manuscripts
-permalink: /meetings/m2
-excerpt: "The 1st Workshop on Fluid Antenna System for 6G (WS-14) was held on 13 June 2024 at the IEEE International Conference on Communications (IEEE ICC 2024) in Denver, Colorado, USA. It aimed to explore how flexible and reconfigurable antenna architectures could provide additional spatial degrees of freedom and improve wireless link performance in 6G networks. The workshop covered both movable and non-movable antenna designs and examined how fluid antenna systems (FAS) could be combined with intelligent reflecting surfaces, massive MIMO, full-duplex transmission, and terahertz communications. The program included technical paper presentations and a keynote on using fluid antenna systems to enable extreme spatial multiplexing."
+permalink: /meetings/2024-06-13-IEEE ICC 2024 WS-14_1st Workshop on Fluid Antenna System for 6G
+
 ---
 **Scope**
 
