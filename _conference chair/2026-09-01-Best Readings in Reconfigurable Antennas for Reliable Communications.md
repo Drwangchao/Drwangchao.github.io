@@ -1,10 +1,9 @@
 ---
+date: 2026-09-01
 title: "<center>Best Readings in Reconfigurable Antennas for Reliable Communications</center>"
 collection: conference
 category: manuscripts
-permalink: /meetings/m4
-excerpt: >-
-  This IEEE Communications Society Best Readings collection introduces reconfigurable antenna technologies for reliable wireless communications. It brings together surveys, tutorials, and research papers on channel modeling, fluid antenna systems, movable and pixel antennas, and robust transmission design. The collection also includes a tutorial-style video that connects the main research themes.
+permalink: /meetings/2026-09-01-Best Readings in Reconfigurable Antennas for Reliable Communications
 ---
 
 ## Scope
