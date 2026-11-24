@@ -4,11 +4,12 @@ title: "Conference Chair"
 permalink: /meetings/
 ---
 
-Information on conferences is presented below.
+<p><strong>For detailed information, please click on the corresponding links below.</strong></p>
 
-{% include base_path %}
-
-
-{% for post in site.conference %}
-  {% include archive-single.html %}
-{% endfor %}
+<ol>
+  {% for post in site.conference %}
+    <li style="margin-bottom: 12px;">
+      <a href="{{ post.url | relative_url }}">{{ post.title | strip_html | strip | escape }}</a>
+    </li>
+  {% endfor %}
+</ol>
