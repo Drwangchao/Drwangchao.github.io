@@ -1,5 +1,5 @@
 ---
-data：2024-06-13
+date：2024-06-13
 title: "<center>IEEE ICC 2024 WS-14: 1st Workshop on Fluid Antenna System for 6G</center>"
 collection: conference
 category: manuscripts
