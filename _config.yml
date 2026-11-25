@@ -226,9 +226,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  submitted:
-    output: true
-    permalink: /:collection/:path/
   tutorials:
     output: true
     permalink: /:collection/:path/
