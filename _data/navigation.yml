@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Submitted"
-    url: /submitted/
+  % - title: "Submitted"
+  %  url: /submitted/
 
   - title: "Awards"
     url: /awards/
@@ -14,5 +14,8 @@ main:
     
   - title: "Conference Chair"
     url: /meetings/
+    
+  - title: "Tutorials"
+    url: /tutorials/
    
  
