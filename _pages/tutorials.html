@@ -1,15 +1,20 @@
 ---
 layout: archive
-title: "Submitted"
-permalink: /submitted/
+title: "Tutorials"
+permalink: /tutorials/
+redirect_from:
+  - /submitted/
 author_profile: true
 ---
 
-Some submitted papers are presented.
+<p><strong>Invited tutorials at international conferences. For detailed information, please click on the corresponding links below.</strong></p>
 
-{% include base_path %}
+{% assign sorted_tutorials = site.tutorials | sort: "date" | reverse %}
 
-
-{% for post in site.submitted %}
-  {% include archive-single.html %}
-{% endfor %}
+<ol>
+  {% for post in sorted_tutorials %}
+    <li style="margin-bottom: 12px;">
+      <a href="{{ post.url | relative_url }}">{{ post.title | strip_html | strip | escape }}</a>
+    </li>
+  {% endfor %}
+</ol>
