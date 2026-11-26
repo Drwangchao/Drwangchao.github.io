@@ -2,7 +2,6 @@
 date: 2026-04-22
 title: "<center>Global 6G Conference 2026 WS-03: Workshop on Fluid Antenna System (FAS) for 6G</center>"
 collection: conference
-category: manuscripts
 permalink: /meetings/2026-04-22-Global 6G Conference 2026 WS-03_Workshop on Fluid Antenna System (FAS) for 6G
 ---
 
