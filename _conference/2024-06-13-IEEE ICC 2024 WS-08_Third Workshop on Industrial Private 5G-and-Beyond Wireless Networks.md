@@ -2,7 +2,6 @@
 date: 2024-06-13
 title: "<center>IEEE ICC 2024 WS-08: Third Workshop on Industrial Private 5G-and-Beyond Wireless Networks</center>"
 collection: conference
-category: manuscripts
 permalink: /meetings/2024-06-13-IEEE ICC 2024 WS-08_Third Workshop on Industrial Private 5G-and-Beyond Wireless Networks
 ---
 
