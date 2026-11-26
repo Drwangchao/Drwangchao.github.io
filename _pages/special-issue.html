@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Special Issue"
+permalink: /special-issue/
+author_profile: true
+---
+
+<p><strong>Guest editorial activities for journal special issues. For detailed information, please click on the corresponding links below.</strong></p>
+
+{% assign sorted_specialissues = site.specialissue | sort: "date" | reverse %}
+
+<ol>
+  {% for post in sorted_specialissues %}
+    <li style="margin-bottom: 12px;">
+      <a href="{{ post.url | relative_url }}">{{ post.title | strip_html | strip | escape }}</a>
+    </li>
+  {% endfor %}
+</ol>
