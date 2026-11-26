@@ -2,7 +2,6 @@
 date: 2026-09-01
 title: "<center>Best Readings in Reconfigurable Antennas for Reliable Communications</center>"
 collection: conference
-category: manuscripts
 permalink: /meetings/2026-09-01-Best Readings in Reconfigurable Antennas for Reliable Communications
 ---
 
