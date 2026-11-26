@@ -241,6 +241,9 @@ collections:
   conference:
     output: true
     permalink: /:collection/:path/  
+  specialissue:
+    output: true
+    permalink: /special-issue/:path/
 
 # Defaults
 defaults:
@@ -334,7 +337,15 @@ defaults:
       author_profile: true
       share: true
       comment: true 
-
+  # _specialissue
+  - scope:
+      path: ""
+      type: specialissue
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: false
    # Sass/SCSS
 sass:
   sass_dir: _sass
