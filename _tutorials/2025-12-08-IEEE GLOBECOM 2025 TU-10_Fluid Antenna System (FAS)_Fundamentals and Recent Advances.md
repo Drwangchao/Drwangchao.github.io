@@ -2,7 +2,6 @@
 date: 2025-12-08
 title: "<center>IEEE GLOBECOM 2025 TU-10: Fluid Antenna System (FAS): Fundamentals and Recent Advances</center>"
 collection: tutorials
-category: manuscripts
 permalink: /tutorials/2025-12-08-IEEE GLOBECOM 2025 TU-10_Fluid Antenna System (FAS)_Fundamentals and Recent Advances/
 ---
 
