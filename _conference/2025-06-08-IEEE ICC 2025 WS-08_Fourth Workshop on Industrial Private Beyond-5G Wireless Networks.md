@@ -2,7 +2,6 @@
 date: 2025-06-08
 title: "<center>IEEE ICC 2025 WS-08: Fourth Workshop on Industrial Private Beyond-5G Wireless Networks</center>"
 collection: conference
-category: manuscripts
 permalink: /meetings/2025-06-08-IEEE ICC 2025 WS-08_Fourth Workshop on Industrial Private Beyond-5G Wireless Networks
 ---
 
