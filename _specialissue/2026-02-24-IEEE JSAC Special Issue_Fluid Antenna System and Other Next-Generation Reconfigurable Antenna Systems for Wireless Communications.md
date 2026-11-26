@@ -2,7 +2,6 @@
 date: 2026-02-24
 title: "<center>IEEE JSAC Special Issue: Fluid Antenna System and Other Next-Generation Reconfigurable Antenna Systems for Wireless Communications</center>"
 collection: specialissue
-category: manuscripts
 permalink: /special-issue/2026-02-24-IEEE JSAC Special Issue_Fluid Antenna System and Other Next-Generation Reconfigurable Antenna Systems for Wireless Communications/
 ---
 
