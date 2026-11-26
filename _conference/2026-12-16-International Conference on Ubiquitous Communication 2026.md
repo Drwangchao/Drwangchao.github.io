@@ -2,7 +2,6 @@
 date: 2026-12-16
 title: "<center>International Conference on Ubiquitous Communication 2026 (Ucom 2026)</center>"
 collection: conference
-category: manuscripts
 permalink: /meetings/2026-12-16-International Conference on Ubiquitous Communication 2026
 ---
 
