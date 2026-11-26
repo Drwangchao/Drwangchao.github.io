@@ -2,7 +2,6 @@
 date: 2026-12-07
 title: "<center>IEEE GLOBECOM 2026 WS-03: Secure and Reliable Communications in Non-Terrestrial Networks</center>"
 collection: conference
-category: manuscripts
 permalink: /meetings/2026-12-07-IEEE GLOBECOM 2026 WS-03_Secure and Reliable Communications in Non-Terrestrial Networks
 ---
 
