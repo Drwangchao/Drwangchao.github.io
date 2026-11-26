@@ -2,7 +2,6 @@
 date: 2026-05-24
 title: "<center>IEEE ICC 2026 TUT-07: Fluid Antenna System (FAS): Fundamentals and Recent Advances</center>"
 collection: tutorials
-category: manuscripts
 permalink: /tutorials/2026-05-24-IEEE ICC 2026 TUT-07_Fluid Antenna System (FAS)_Fundamentals and Recent Advances/
 ---
 
